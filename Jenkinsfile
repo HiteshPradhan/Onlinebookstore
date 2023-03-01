@@ -10,4 +10,3 @@ pipeline {
         }
 }
 
-printf "hello world"
