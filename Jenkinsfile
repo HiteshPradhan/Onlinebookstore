@@ -9,3 +9,5 @@ pipeline {
          	    } 
         }
 }
+
+printf "hello world"
